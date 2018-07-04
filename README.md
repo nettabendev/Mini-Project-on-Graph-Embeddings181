@@ -1,8 +1,9 @@
 # Mini-Project-on-Graph-Embeddings181
 
-This is a readme file for Mini Project on Low-Distortion Embedding by Netta Ben Ezri. 311497994
+This is a readme file for Mini Project on Low-Distortion Embedding by Netta Ben Ezri in Ben Gurion University in 2018. 
 
-The Mini Project is Based on the paper "On Sparse Spanners of Weighted Graphs" by Ingo Althofer
+The Mini Project is Based on the paper "On Sparse Spanners of Weighted Graphs" by Ingo Althofer and implements the graph spaning algorithm described in it.
+
 Supervisor: Prof. Michael Elkin
 
 
